@@ -1,4 +1,4 @@
-﻿namespace CSharpFeatures
+﻿namespace CSharpFeatures.Models
 {
     public class Student
     {
@@ -22,5 +22,5 @@
         //     FirstName = firstName;
         //     LastName = lastName;
         // }
-    } 
+    }
 }

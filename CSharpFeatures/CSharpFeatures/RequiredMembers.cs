@@ -1,3 +1,5 @@
+using CSharpFeatures.Models;
+
 namespace CSharpFeatures
 {
     internal static class RequiredMembers
